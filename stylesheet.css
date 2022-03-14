@@ -1,0 +1,137 @@
+            hr {
+                background-color: rgb(97, 87, 87);
+            }
+            
+            body {
+                background-color: #FFFFFF;
+            }
+            
+            h1 {
+                text-align: center;
+            }
+            
+            .o {
+                position: relative;
+                text-align: left;
+            }
+            
+            .active:hover {
+                background-color: #ecebe4;
+            }
+            
+            a {
+                color: rgb(16, 18, 20);
+            }
+            
+            .nav1:hover {
+                background-color: beige;
+            }
+            
+            .topnav {
+                background-color: #65C18C;
+                border-color: black;
+                border: 100px;
+                height: 50px;
+                text-align: center;
+            }
+            
+            .aaj {
+                margin: 0%;
+            }
+            
+            .ra {
+                margin: 0%;
+                border-width: 0px;
+                border-top: 0px;
+                padding: 0%;
+                border: 0ch;
+            }
+            
+            .io {
+                margin: 0%;
+                border-width: 0%;
+            }
+            
+            .image {
+                position: center;
+                margin: 25px;
+            }
+            
+            .merger1 {
+                height: 500px;
+                width: 250px;
+                inline-size: auto;
+                background-image: url(back.jpg);
+            }
+            
+            .kur {
+                height: 500px;
+                width: 250px;
+                border-width: 0px;
+                background-image: url("back.jpg");
+                left: 60px;
+                padding: 0px;
+                margin: 0px;
+                text-align: center;
+                display: inline-block;
+                margin-left: 100px;
+            }
+            
+            .ram {
+                height: 500px;
+                width: 250px;
+                border-width: 0px;
+                background-image: url("back.jpg");
+                padding: 0px;
+                margin: 0px;
+                display: inline-block;
+                left: 50%;
+                margin-left: 100px;
+                text-align: center;
+            }
+            
+            .heading {
+                text-align: center;
+                text-decoration: underline;
+                font-size: x larger;
+                color: rgb(255, 157, 127);
+            }
+            
+            .kurbody {
+                background-image: url(kur1.jpg);
+                background-size: 50%;
+            }
+            
+            .white {
+                background-color: aliceblue;
+            }
+            
+            .coming {
+                background-image: url(back.jpg);
+                text-align: center;
+                padding: 0px;
+                margin: 25%;
+                font-size: 100px;
+                color: aliceblue;
+            }
+            
+            .vim {
+                margin-top: 100px;
+                position: center;
+                margin-left: 50px;
+            }
+            
+            .im {
+                position: center;
+                left: 50px;
+                background-color: #FAF6F1;
+            }
+            
+            .vi {
+                background-color: #D8D4D0;
+                margin-top: 100px;
+            }
+            
+            .imo {
+                margin-left: 50px;
+            }
